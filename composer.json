@@ -1,6 +1,6 @@
 {
     "name": "laravel-junkies/blog",
-    "description": "The Blog sites for Laravel Blog Package.",
+    "description": "The Blog sites for The Laravel Blog Package.",
     "keywords": ["laravel", "blog", "bootstrap"],
     "license": "MIT",
     "authors": [
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaraJunkie\\": "src"
+            "LaraJunkie\\Blog\\": "src"
         }
     },
     "minimum-stability": "dev"
